@@ -1,0 +1,8 @@
+.collectionList {
+    cursor: pointer;
+    display: flex;
+    overflow: auto;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #fff;
+    padding: 2%;
+}
