@@ -1,6 +1,7 @@
 .main {
     height: 50%;
     overflow: auto;
+    margin-top: 20px;
 }
 
 .mainContent {
